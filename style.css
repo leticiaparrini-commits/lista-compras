@@ -1,0 +1,6 @@
+body { font-family: sans-serif; max-width: 300px; margin: 40px auto; }
+.box { display: flex; gap: 5px; margin-bottom: 15px; }
+input { flex: 1; padding: 8px; }
+li { cursor: pointer; padding: 5px 0; display: flex; justify-content: space-between; align-items: center; }
+.done { text-decoration: line-through; color: gray; }
+button { cursor: pointer; }
